@@ -1,6 +1,5 @@
 👋 Welcome to my profile! I'm Sarthak Sharma, a versatile professional:
 
-
 🌐 Full Stack Web Developer 
 🎨 UI/UX Designer 
 📚 Engineering Scholar
