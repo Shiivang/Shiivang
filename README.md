@@ -2,8 +2,7 @@
 
 
 🌐 Full Stack Web Developer 
-
-🎨 UI/UX Designer
+🎨 UI/UX Designer 
 📚 Engineering Scholar
 💼 Freelancer
 💡 Problem Solver
